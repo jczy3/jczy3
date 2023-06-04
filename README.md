@@ -1,6 +1,7 @@
 ### Vigenere Cypher Encryption / Decryption Final Project
 
 Authors: Joseph Caraan, Paul Ingram
+
 Date Published: June 3, 2023
 
 Vigenere Cypher Overview:
